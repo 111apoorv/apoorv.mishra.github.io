@@ -1,4 +1,4 @@
-# apoorv.mishra.github.io
+
 # Apoorv Mishra
 ### AI Product Manager | Data Scientist | AI Enthusiast | Problem Solver  
 
