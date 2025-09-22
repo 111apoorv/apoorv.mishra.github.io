@@ -6,7 +6,7 @@
 Passionate about building AI-powered products that drive business impact.  
 
 ## 🔹 Education
-- MS in Information Technology, Rutgers Business School (2025)
+- MS in Information Technology and Analytics, Rutgers Business School (2025)
 - B.Tech in Computer Science, JIIT Noida  
 
 ## 🔹 Work Experience
