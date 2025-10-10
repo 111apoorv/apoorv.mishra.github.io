@@ -1,8 +1,4 @@
-title: Apoorv Mishra
-logo: /assets/img/profile.jpg   # <- Your profile photo path
-description: AI Product Manager | Building Intelligent Systems for Business Growth
-show_downloads: false
-theme: jekyll-theme-minimal
+
 # Apoorv Mishra
 assets/profile_pic_linkedin_apoorv.jpg
 ### AI Product Manager | Data Scientist | AI Enthusiast | Problem Solver  
