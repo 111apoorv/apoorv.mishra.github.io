@@ -1,5 +1,6 @@
 
 # Apoorv Mishra
+assets/profile_pic_linkedin_apoorv.jpg
 ### AI Product Manager | Data Scientist | AI Enthusiast | Problem Solver  
 
 ## 🔹 About Me
